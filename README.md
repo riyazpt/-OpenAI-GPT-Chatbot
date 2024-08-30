@@ -20,7 +20,7 @@ A simple command-line chatbot application using OpenAI's GPT-3.5-turbo API. This
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/your-username/openai-gpt-chatbot.git
+    git clone https://github.com/riyazpt/-OpenAI-GPT-Chatbot
     cd openai-gpt-chatbot
     ```
 
