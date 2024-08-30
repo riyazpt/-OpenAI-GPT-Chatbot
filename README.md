@@ -43,7 +43,7 @@ A simple command-line chatbot application using OpenAI's GPT-3.5-turbo API. This
 4. **Run the Application**:
 
     ```bash
-    node chatbot.js
+    npm run dev
     ```
 
 5. **Interact with the Chatbot**:
